@@ -1,0 +1,17 @@
+{
+    "name": "johndavedecano/codeigniter",
+    "authors": [
+        {
+            "name": "Dave Decano",
+            "email": "johndavedecano@gmail.com"
+        }
+    ],
+    "require": {
+        "illuminate/database": "4.2.6"
+    },
+    "autoload": {
+        "classmap": [
+            "application/models"
+        ]
+    }
+}
